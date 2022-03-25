@@ -18,11 +18,11 @@
     },
     {
       "UserId": "2",
-      "firstname": "Mymy",
+      "firstname": "BonBon",
       "Surname": "Jones",
       "PlayerDesc": "Is into coding and landscape photography but saving for University",
-      "MaxGold": "1325",
-      "Team": "Blue"
+      "MaxGold": "15",
+      "Team": "Red"
     },
     {
       "UserId": "3",

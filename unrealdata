@@ -1,4 +1,3 @@
-// 20220325105055
 // https://raw.githubusercontent.com/jonathan9232/JsonVideoTutorial/main/JsonVideoTut.json
 
 {
@@ -9,7 +8,7 @@
       "Surname": "Brown",
       "PlayerDesc": "Into Pizza and watching movies",
       "MaxGold": "16",
-      "Team": "Blue"
+      "Team": "Red"
     },
     {
       "UserId": "1",
@@ -25,7 +24,7 @@
       "Surname": "Jones",
       "PlayerDesc": "Is into coding and landscape photography but saving for University",
       "MaxGold": "1325",
-      "Team": "Blue"
+      "Team": "Red"
     },
     {
       "UserId": "3",

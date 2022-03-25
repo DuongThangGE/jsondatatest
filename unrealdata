@@ -2,10 +2,10 @@
   "UserInfo": [
     {
       "UserId": "0",
-      "firstname": "Jack",
+      "firstname": "Thang",
       "Surname": "Brown",
       "PlayerDesc": "Into Pizza and watching movies",
-      "MaxGold": "16",
+      "MaxGold": "36",
       "Team": "Red"
     },
     {
@@ -18,11 +18,11 @@
     },
     {
       "UserId": "2",
-      "firstname": "Emily",
+      "firstname": "Mymy",
       "Surname": "Jones",
       "PlayerDesc": "Is into coding and landscape photography but saving for University",
       "MaxGold": "1325",
-      "Team": "Red"
+      "Team": "Blue"
     },
     {
       "UserId": "3",
